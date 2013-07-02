@@ -1,2 +1,3 @@
-rotators.github.io
+Rotators Github page
 ==================
+This is the repo for Rotator's Github page...
